@@ -1,0 +1,1 @@
+from s2p.s2p import cli

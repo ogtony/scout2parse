@@ -5,9 +5,10 @@ Commands to parse scout2's json database into CSV's for easy reporting.
 import csv
 import json
 from collections import defaultdict
+
 import click
 
-from findings import ec2_findings
+from s2p.findings import ec2_findings
 
 
 def parse_scout2_json(filepath):

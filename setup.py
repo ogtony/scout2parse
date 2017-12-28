@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='scout2-to-csv',
     version='1.0.0',
-    pymodules=['s2p.py'],
+    packages=['s2p'],
     url='',
     license='',
     author='tlozano',
