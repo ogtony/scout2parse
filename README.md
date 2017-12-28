@@ -1,7 +1,7 @@
 # scout2-to-csv
 Parses Scout2 JSON to create CSV files for reports.
 ~~~~
-  Usage: scout2-parse.py [OPTIONS] COMMAND [ARGS]...
+  Usage: s2p [OPTIONS] COMMAND [ARGS]...
 
   Options:
     --help  Show this message and exit.
